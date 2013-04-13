@@ -28,8 +28,6 @@ obj/
 _ReSharper*/
 [Tt]est[Rr]esult*
 /ipch
-*.sln
-*.sdf
 *.opensdf
-*.vcxproj
-*.vcxproj.filters
+*.sdf
+
